@@ -16,7 +16,7 @@ import junit.framework.TestCase;
 public class AdditionTest extends TestCase {
 
 	Addition add = new Addition();
-	
+	 
 	@Before
 	@After
 	
