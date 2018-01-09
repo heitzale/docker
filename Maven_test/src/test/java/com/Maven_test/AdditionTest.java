@@ -10,7 +10,7 @@ import org.junit.Test;
 import junit.framework.TestCase;
 
 /**
- * @author KANDEL Sarah
+ * @author KANDEL Sarah & moi
  *
  */
 public class AdditionTest extends TestCase {
