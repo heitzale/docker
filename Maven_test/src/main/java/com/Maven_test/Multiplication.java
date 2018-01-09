@@ -5,9 +5,5 @@ public class Multiplication {
 		return a*b;
 	}
 	
-	public Character lireSymbole(){
-		
-	return '-' ;
-	}
 
 }
