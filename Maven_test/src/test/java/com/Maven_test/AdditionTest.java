@@ -10,7 +10,7 @@ import org.junit.Test;
 import junit.framework.TestCase;
 
 /**
- * @author KANDEL Sarah & moi
+ * @author KANDEL Sarah
  *
  */
 public class AdditionTest extends TestCase {
@@ -19,7 +19,6 @@ public class AdditionTest extends TestCase {
 	 
 	@Before
 	@After
-	
 	@Test
 	public void additionAvecDeuxNombres() {
 		final long lAddition = add.calculer(2L,3L);
