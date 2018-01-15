@@ -23,6 +23,7 @@ public class AdditionTest extends TestCase {
 	@Test
 	public void additionAvecDeuxNombres() {
 		final long lAddition = add.calculer(2L,3L);
+		assertEquals(5L, lAddition);
 	}
 	
 	@Test
