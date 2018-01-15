@@ -10,6 +10,6 @@ public class App {
 	public static void main(String[] args) {
 //		JDBCConfigurationSol2 bob = new JDBCConfigurationSol2();
 //		bob.getConnection();
-		System.out.println("blkallaalallllllalalaaaaa");
+		System.out.println("je suis une pierre !");
 	}
 }
